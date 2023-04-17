@@ -1,3 +1,11 @@
+/*In this example, we use a HashMap, which is an 
+    implementation of the Map interface, to store 
+    key-value pairs where the keys are strings 
+    and the values are integers representing scores. 
+    We demonstrate how to add, retrieve, remove, 
+    and iterate over key-value pairs in the map 
+    using various methods provided by the Map interface. */
+
 import java.util.HashMap;
 import java.util.Map;
 
